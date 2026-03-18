@@ -1,0 +1,7 @@
+survival-analysis-km/
+├── data/               # Project data (Raw and Processed)
+├── scripts/            # Main R scripts
+├── output/             # Saved plots (PNG, PDF) and tables
+├── .gitignore          # Files to be ignored by Git
+├── README.md           # Project documentation
+└── analysis-km.Rproj   # RStudio Project file
